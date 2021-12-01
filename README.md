@@ -1,4 +1,4 @@
-# Design integration in HTML5 & SASS
+# Video Library management tool in jQuery
 
 Realization of a video library management tool in jQuery for the "script clients" course.
 
